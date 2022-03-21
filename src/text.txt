@@ -1,0 +1,86 @@
+
+[ 텍스트 ]
+
+1. Site Logo
+Caffe Bene
+
+
+2. Navigation
+Caffebene   Menu   Community   Membership   Store   Franchise
+
+
+3. Mainview Slider 
+BLEND NEW
+COLD BREW
+COFFEE
+
+NEW
+콜드블루 헤이즐넛 라떼
+Cold Brew Hazeinut Latte
+
+NEW
+콜드블루 바닐라 젤라또 라떼
+Cold Brew Vanlla Gelato Latte
+
+콜드블루
+Cold Brew 
+
+Let's go 칸쿤 바캉스
+칸쿤 블루
+Cancun Blue
+
+
+[ Section2 ]
+Coffee
+커피와 함께하는 특별한 시간
+
+Beverage & Tea
+차와 음료로 함께하는 한 잔의 여유
+
+Dessert
+디저트와 함께하는 달콤한 즐거움
+
+Bagel
+내 입맛대로 즐기는 126가지 행복
+
+MD Product
+언제어디서나 즐기는 카페베네
+
+[ Footer : f-top ]
+Company
+
+카페베네 소개
+카페베네 B.I
+홍보영상
+연혁
+찾아오는 길
+
+
+Contribution
+
+활동소개
+언론보도
+
+
+SNS
+
+페이스북
+인스타그램
+
+
+
+
+[ Footer : f-bottom ]
+
+개인정보 취급방침 이용약관 회원탈퇴 고객센터 1688-4666
+본사 서울시 광진구 동일로 427 대표이사 박혜경 사업자등록번호 206-86-29161    소비자대표번호 1688-4666 FAX. 02-3438-6802
+
+Copyright ⓒ by Caffebene. All right reserved
+
+
+
+
+[ 서체 ]
+Bodoni Bd BT ( LOGO )
+
+Roboto_Slab-heading ( 타이틀 제목체 )
